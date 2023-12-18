@@ -1,5 +1,7 @@
+<img src="https://flow.org/img/featurette-faster.gif" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img  align="right" src="https://rodrigo-orozco-front-end.vercel.app/static/media/octocat-github.7ff7aaed8482b7b21add.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit007ind&label=Profile%20views&color=0e75b6&style=flat" alt="sumit007ind" /> </p>
 
