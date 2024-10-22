@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ** React Native , Node.js , MongoDB , Express.js**
 
-- 💬 Ask me about **Html,Css,UI/UX,Figma Java script react js core java **
+- 💬 Ask me about **Html,Css,UI/UX,Figma, Java script, react.js, core java **
 
 - 📫 How to reach me **sharmaraj81808@gmail.com**
 
