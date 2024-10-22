@@ -1,17 +1,17 @@
 <img src="https://flow.org/img/featurette-faster.gif" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web And App developer from India</h3>
 <img  align="right" src="https://rodrigo-orozco-front-end.vercel.app/static/media/octocat-github.7ff7aaed8482b7b21add.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit007ind&label=Profile%20views&color=0e75b6&style=flat" alt="sumit007ind" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **UI/UX**
+- 🔭 I’m currently working on *APP DEVELOPMENT*
 
-- 🌱 I’m currently learning **Javascript,React.js,Node.js**
+- 🌱 I’m currently learning ** React Native , Node.js , MongoDB , Express.js**
 
-- 💬 Ask me about **Html,Css,UI/UX,Figma**
+- 💬 Ask me about **Html,Css,UI/UX,Figma Java script react js core java **
 
 - 📫 How to reach me **sharmaraj81808@gmail.com**
 
@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/sumit-sharma-43275a24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-sharma-43275a24b" height="30" width="40" /></a>
 <a href="https://instagram.com/ind_sumittt_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ind_sumittt_04" height="30" width="40" /></a>
 <a href="https://dribbble.com/sumit_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sumit_04" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
